@@ -40,7 +40,12 @@ Downloading files provided above and open them with Power BI.
 
 For opening the project using AWS, sign up and build an EC2 machine. Run the instance terminal and open the files through AWS EC2 machine.
 ## Screenshots
+![snap 1](https://user-images.githubusercontent.com/92581650/170513252-23a2928d-8870-4ea2-b788-6e047659072d.png)
+![snap 2](https://user-images.githubusercontent.com/92581650/170513289-b29391e6-6039-4301-ad4d-ff5acefc8d25.png)
+![snap 3](https://user-images.githubusercontent.com/92581650/170513313-2a17f134-fdca-4d5d-ba4b-c57d062f8d85.png)
+![snap 4](https://user-images.githubusercontent.com/92581650/170513340-63c656b5-b512-45e9-9402-295dac121508.png)
 
-![snap 1](https://user-images.githubusercontent.com/92581640/170512745-fe2befcc-7068-4985-be26-1ab3eb69dbea.png)
+
+
 
 
