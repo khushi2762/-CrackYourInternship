@@ -8,8 +8,7 @@ This project focuses on the data analysis of cars and dataset is taken from the 
 
 
 ## Workflow and experience:
-
-google drive ki link to ppt or word
+https://drive.google.com/file/d/1hNZqVP4eZQQauVku23AkQGB8YBbGFNrk/view?usp=sharing
 
 
 ## Demo Video
